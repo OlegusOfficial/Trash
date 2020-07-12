@@ -34,3 +34,4 @@ class Circle(Figure):
             self.r,
             self.square()
         )
+# kuku
